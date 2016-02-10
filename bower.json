@@ -1,0 +1,25 @@
+{
+  "name": "Assignment 2 Solar System",
+  "authors": [
+    "Derek Wong"
+  ],
+  "description": "Cube Man ",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/derekpwwong/COMP392-Solar-System",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+    
+  ],
+  "dependencies": {
+    "three.js": "~0.72.0",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
